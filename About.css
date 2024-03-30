@@ -1,0 +1,26 @@
+.img_about{
+    width: 600px;
+}
+.div_center{
+    display: flex;
+    padding: 40px;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    background-color: #F9FAFA;
+}
+.para{
+    font-size: 20px;
+}
+.btn_div{
+    width: 180px;
+    height: 50px;
+    border: none;
+    color: white;
+    background-color: #579EAE;
+    font-size: 20px;
+}
+.btn_div:hover{
+    background-color: white;
+    color: #579EAE;
+    border: 1px solid #579EAE;
+}

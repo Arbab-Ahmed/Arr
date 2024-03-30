@@ -1,0 +1,96 @@
+.blk{
+    background-color: black;
+    height: 570px;
+    width: 1170px;
+    margin-left: 40px;
+}
+.bl{
+    color: white;
+    
+}
+.bl_div{
+    padding: 100px;
+}
+.bl_2{
+    color: white;
+    margin-left: 140px;
+}
+.bl_3{
+    color: white;
+    margin-left: 140px;
+}
+.fl{
+    display: flex;
+}
+.insta{
+    color: white;
+    font-size: 25px;
+}
+.image_div{
+    height: 80px;
+    width: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.main3{
+    margin-left: 220px;
+}
+.main4{
+    display: flex;
+}
+.insta_hd{
+    margin-left: 50px;
+    color: white;
+    font-size: 25px;
+}
+.insta_sig{
+    margin-left: 120px;
+    font-size: 25px;
+}
+.email_sig{
+    margin-left: 120px;
+    height: 40px;
+    width: 220px;
+}
+.btn_sm_1{
+    height: 50px;
+    width: 50px;
+    margin-left: 120px;
+    background-color: black;
+    color: #6BB8BF;
+    border: 1px solid #6BB8BF;
+}
+
+.btn_sm{
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+    margin-top: 5px;
+    background-color: black;
+    color: white;
+    border: 1px solid #6BB8BF;
+}
+.btn_sm:hover{
+    background-color: black;
+    color: #F89744;
+    border: 1px solid #F89744;
+}
+.btn_sm_1:hover{
+    background-color: black;
+    color: #F89744;
+    border: 1px solid #F89744;
+}
+.btn_sub{
+    margin-left: 120px;
+    width: 150px;
+    height: 50px;
+    background-color: #6BB8BF;
+    color: white;
+}
+.btn_sub:hover{
+    background-color: white;
+    color: #6BB8BF;
+    border: 1px solid #6BB8BF;
+}

@@ -1,0 +1,25 @@
+img{
+    width: 300px;
+    margin-left: 60px;
+
+}
+.pr{
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+}
+.main{
+    width: 400px;
+    background-color: gray;
+    margin-top: 20px;
+    border: 20px solid gray;
+    
+}
+.title{
+    text-align: center;
+    background-color: gray;
+}
+.des{
+    text-align: center;
+    background-color: gray;
+}

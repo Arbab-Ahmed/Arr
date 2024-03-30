@@ -1,0 +1,54 @@
+
+.div1{
+    margin-left: 90px;
+    display: flex;
+    width: 100%;
+    
+}
+.btn2{
+    width: 150px;
+    height: 45px;
+    background-color: #F89646;
+    border: none;
+    color: white;
+}
+.btn3{
+    margin-left: 10px;
+    width: 150px;
+    height: 45px;
+    background-color: #6BB7BE;
+    border: none;
+    color: white;
+}
+.img{
+    margin-top: 40px;
+    width: 80%;
+    height: 65%;
+    
+}
+.right{
+    width: 35%;
+}
+.left{
+    width: 65%;
+}
+.btn2:hover{
+    background-color: white;
+    color: #F89646;
+    border: 1px solid #F89646;
+}
+
+.btn3:hover{
+    background-color: white;
+    color: #6BB7BE;
+    border: 1px solid #6BB7BE;
+}
+.react-multi-carousel-dot button{
+    background-color: #6BB8BF;
+    border: none !important;
+    outline: none !important;
+}
+
+.react-multi-carousel-dot--active button {
+    background: #F89744 !important;
+}

@@ -1,0 +1,37 @@
+img{
+    width: 380px;
+}
+.bb{
+    display: flex;
+}
+.cc{
+    background-color: #6BB8BF;
+    border: none;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+h2{
+    font-size: 20px;
+}
+.aa{
+    margin-top: 40px;
+    background-color: #F7FAFA;
+    width: 380px;
+    border: 1px solid black;
+   margin-right: 30px;
+   margin-bottom: 30px;
+   margin-left: 10px;
+    
+}
+.cc:hover{
+    background-color: white;
+    border: 1px solid #6BB8BF;
+    color: #6BB8BF;
+}
+.pp{
+    margin-left: 10px;
+}
+h2{
+    margin-left: 20px;
+}
